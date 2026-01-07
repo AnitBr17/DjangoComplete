@@ -121,5 +121,3 @@ You have successfully:
 * ✅ Started the development server
 
 You are now ready to build Django applications 🚀✨
-
----
