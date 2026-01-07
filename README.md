@@ -1,144 +1,25 @@
 # DjangoComplete
 
-A complete guide to learning Django, covering everything from basic concepts to advanced backend development using Python and Django.
-
-This repository is designed for beginners as well as intermediate developers who want to build strong backend fundamentals and real-world Django applications.
-
-📘 Course Structure
-🔹 1. Introduction to Django & Backend Development
-
-What is backend development?
-
-Why choose Django?
-
-Django vs other backend frameworks
-
-🔹 2. Django Project & App Architecture
-
-Understanding Django project structure
-
-Difference between project and app
-
-Best practices for organizing apps
-
-🔹 3. MVT (Model–View–Template) Architecture
-
-Clear explanation of MVT
-
-Role of Models, Views, and Templates
-
-Data flow in a Django application
-
-🔹 4. URL Routing & Views
-
-URL configuration (urls.py)
-
-Function-based views
-
-Request & response lifecycle
-
-🔹 5. Templates & Static Files
-
-Template rendering
-
-Template inheritance
-
-Managing static files (CSS, JS, Images)
-
-🔹 6. Django Models & ORM
-
-Creating models
-
-Database migrations
-
-QuerySets and ORM operations
-
-🔹 7. Database Integration
-
-SQLite basics
-
-PostgreSQL fundamentals
-
-Switching databases in Django
-
-🔹 8. Django Forms & Model Forms
-
-Handling user input
-
-Form validation
-
-ModelForms for faster development
-
-🔹 9. Authentication & Authorization
-
-User authentication system
-
-Permissions and access control
-
-Password hashing and security
-
-🔹 10. User Login, Signup & Logout
-
-Authentication workflows
-
-Session management
-
-Secure login systems
-
-🔹 11. Django Admin Customization
-
-Customizing admin panel
-
-Registering models
-
-Improving admin usability
-
-🔹 12. Class-Based Views vs Function-Based Views
-
-Differences and use cases
-
-When to use CBVs
-
-When FBVs are better
-
-🔹 13. REST API Basics with Django
-
-Introduction to APIs
-
-JSON responses
-
-Basic API design concepts
-
-🔹 14. CRUD Operations
-
-Create, Read, Update, Delete
-
-Forms and API-based CRUD
-
-Best practices
-
-🔹 15. Error Handling & Debugging
-
-Debugging tools
-
-Common Django errors
-
-Logging basics
-
-🔹 16. Deployment Concepts (Basics)
-
-Production vs development
-
-Environment variables
-
-Overview of deployment workflow
-
-🎯 Who This Repository Is For
-
-Beginners starting backend development
-
-Frontend developers moving to full-stack
-
-Students preparing for interviews
-
-Developers building real-world Django projects
+A complete guide to learning Django from basics to advanced backend development concepts.
+
+---
+
+## 📘 Course Structure
+
+- [Introduction to Django & Backend Development](./01-Introduction)
+- [Django Project & App Architecture](./02-Project-Architecture)
+- [MVT (Model–View–Template) Explained Clearly](./03-MVT)
+
+- [URL Routing & Views](./04-Urls-Views)
+- [Templates & Static Files](./05-Templates-Static)
+- [Django Models & ORM (QuerySets)](./06-Models-ORM)
+- [Database Integration (SQLite / PostgreSQL Basics)](./07-Database)
+- [Django Forms & Model Forms](./08-Forms)
+- [Authentication & Authorization](./09-Auth)
+- [User Login, Signup & Logout](./10-Auth-flow)
+- [Django Admin Customization](./11-Admin)
+- [Class-Based Views vs Function-Based Views](./12-CBV-VS-FBV)
+- [REST API Basics with Django](./13-Rest-Api)
+- [CRUD Operations (Create, Read, Update, Delete)](./14-Crud)
+- [Error Handling & Debugging](./15-Debugging)
+- [Deployment Concepts (Basics)](./16-Deployment)
