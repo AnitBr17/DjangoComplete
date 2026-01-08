@@ -8,3 +8,7 @@ def home(request):
 
 def about(request):
     return HttpResponse("This is About Page")
+
+def about(request):
+    a = 10+50
+    return HttpResponse("This is About Page:{60}")
